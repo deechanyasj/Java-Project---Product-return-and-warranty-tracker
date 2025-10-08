@@ -39,22 +39,9 @@ Comprehensive Reporting
 🚀 Quick Start
 Prerequisites
 Java JDK 17 or higher
-
 Basic terminal/command prompt knowledge
 
-Installation
-bash
-# Clone the repository
-git clone https://github.com/yourusername/product-warranty-tracker.git
 
-# Navigate to project directory
-cd product-warranty-tracker
-
-# Compile all Java files
-javac *.java
-
-# Run the application
-java Main
 📋 Default Login Credentials
 Admin Portal
 Username: admin
@@ -114,7 +101,7 @@ Architecture: MVC pattern
 
 Data Persistence: Automatic save/load
 
-UI: Console-based with emoji support
+UI: Console-based support
 
 🛠️ Development
 Adding New Features
